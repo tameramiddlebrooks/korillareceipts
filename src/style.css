@@ -1,0 +1,12 @@
+.receipt {
+    border: 1px  lightgreen;
+    padding: 1em;
+    margin: 1em;
+    flex-basis: 30%;
+  }
+    span {
+    color: purple;
+  }
+  #pay:hover {
+    cursor: pointer;
+  };
